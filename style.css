@@ -1,0 +1,32 @@
+#Resume-form {
+   display: none; 
+}
+
+#cv1-form {
+    background-color: aquamarine;
+}
+
+#cv2-form {
+    background-color: aquamarine;
+}
+
+#cv3-form {
+    background-color: aquamarine;
+}
+
+#cv4-form {
+    background-color: aquamarine;
+}
+
+.myimg {
+    border-radius: 50%;
+    width: 200px;
+}
+
+.background{
+    background-color: aqua;
+}
+
+.navbar-brand mb-0 h1{
+    text-align: center;
+}
